@@ -1,4 +1,4 @@
-### Hi there 👋
+### About me / Acerca de mí.
 
 <!--
 **Victordf2005/Victordf2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Bienvenido/a a mi repositorio. En él se muestran proyectos elaborados durante mi época de estudiante de los ciclos superiores de Diseño de Aplicaciones Web y de Aplicaciones Multiplataforma; así como del curso de especialización en Videojuegos 2D/3D y Realidad Virtual, que curso actualmente.
+
+Además de las titulaciones citadas, poseo también la de Técnico Especialista en Informática de Gestión.
+
+#### Contacto:
+Tlf.: (__) 9__8___86; 6__3___88.
+Email: victordf.........web@gmail.com
