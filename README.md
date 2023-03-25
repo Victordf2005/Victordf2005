@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Bienvenido/a a mi repositorio. En él se muestran proyectos elaborados durante mi época de estudiante de los ciclos superiores de Diseño de Aplicaciones Web y de Aplicaciones Multiplataforma; así como del curso de especialización en Videojuegos 2D/3D y Realidad Virtual, que curso actualmente.
+Bienvenido/a a mi repositorio de GitHub. En él encontrará proyectos elaborados durante mi época de estudiante de los ciclos superiores de Diseño de Aplicaciones Web y de Aplicaciones Multiplataforma; así como del curso de especialización en Videojuegos 2D/3D y Realidad Virtual, que estoy cursando actualmente.
 
 Además de las titulaciones citadas, poseo también la de Técnico Especialista en Informática de Gestión.
+
+De mi experiencia laboral he adquirido conocimientos en MS Office, Adobe Acrobat, bases de datos, vb.net y otras relacionadas con internet. Mis aficiones me han proporcionado conocimientos en la edición de audio, video e imágenes con Gimp, Krita, Photoshop y Davinci Resolve.
 
 #### Contacto:
 Tlf.: (__) 9__8___86; 6__3___88.
